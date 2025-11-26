@@ -24,6 +24,19 @@ Total Paid Users & Total MRR — overall dynamics of paid users and regular reve
 ARPPU — average revenue per paying user.
 LT & LTV — user lifetime and their value to the project.
 
+# Tableau Dashboard 
+<img width="1177" height="657" alt="image" src="https://github.com/user-attachments/assets/ef7a5f77-ec7e-41a6-a57d-9382a13f1041" />
+
+
+# Link to Dashboard
+https://public.tableau.com/views/FinalProjectRevenuemetrics_17625151377800/FinalProject?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+<img width="3425" height="81" alt="image" src="https://github.com/user-attachments/assets/2433df56-7f21-44a3-9b26-ceeeb0d36150" />
+
+ # Conclusions after working on the project
+
+* The dashboard allows you to quickly see the main trends in revenue and users.
+* With its help, you can determine in which months MRR is growing or falling, and what influenced this — new users, returns, or losses.
+* The project helped me gain a deeper understanding of the business metrics of SaaS projects and the analytical capabilities of Tableau.
 
 
 
