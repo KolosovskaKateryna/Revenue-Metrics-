@@ -25,8 +25,7 @@ ARPPU — average revenue per paying user.
 LT & LTV — user lifetime and their value to the project.
 
 # Tableau Dashboard 
-<img width="1177" height="657" alt="image" src="https://github.com/user-attachments/assets/ef7a5f77-ec7e-41a6-a57d-9382a13f1041" />
-
+<img width="1171" height="653" alt="image" src="https://github.com/user-attachments/assets/32467b3e-1640-4e57-9c17-a51884ab860c" />
 
 # Link to Dashboard
 https://public.tableau.com/views/FinalProjectRevenuemetrics_17625151377800/FinalProject?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
